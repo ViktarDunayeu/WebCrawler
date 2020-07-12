@@ -4,8 +4,8 @@ Simple web crawler that traverses websites following predefined link depth and m
 # JavaDoc
 Can be found in target/site
 
-# Startup scrip
+# Startup script
 Startup script with configuration - target/startCrawler.bat
 
-# Jar for Startup scrip
+# Jar for Startup script
 target/WebCrawler-1.0.1-SNAPSHOT-jar-with-dependencies.jar
